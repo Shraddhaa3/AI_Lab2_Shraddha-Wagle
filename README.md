@@ -97,5 +97,3 @@ This project demonstrates:
 
 ---
 
-**Author**: sagar prasad chaulagain  
-**Course**: Artificial Intelligence
